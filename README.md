@@ -1,2 +1,2 @@
 # Vanilla-JS-parallax
-anilla JS parallax
+Vanilla JS parallax
